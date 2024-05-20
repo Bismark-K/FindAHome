@@ -1,4 +1,3 @@
-Sure, here's a detailed README.md for your "HomeFinder" project:
 # HomeFinder
 
 HomeFinder is a user-friendly web application designed for renting and selling houses. It features an intuitive search interface, user authentication (sign in and sign up), and showcases property listings with details and images. The project aims to provide a seamless experience for users looking to find their dream home.
@@ -41,22 +40,6 @@ Ensure you have the following installed:
 1. Navigate through the website using the navigation bar.
 2. Use the search bar on the homepage to find properties.
 3. Sign in or sign up to access personalized features.
-
-## File Structure
-homefinder/
-│
-├── index.html
-├── listings.html
-├── about.html
-├── contact.html
-├── styles.css
-├── scripts.js
-├── images/
-│   ├── hero.jpg
-│   ├── house1.jpg
-│   ├── house2.jpg
-│   └── ...
-└── README.md
 
 ## Contributing
 
