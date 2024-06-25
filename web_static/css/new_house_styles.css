@@ -1,0 +1,53 @@
+body, html {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.houses-container {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+.house {
+    flex: 1 1 calc(50% - 40px);
+    box-sizing: border-box;
+    margin: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.house img {
+    width: 100%;
+    height: auto;
+}
+
+.details {
+    padding: 10px;
+}
+
+.details h2 {
+    margin: 0 0 10px;
+}
+
+.details p {
+    margin: 5px 0;
+}
+
+.realtor {
+    margin-top: 10px;
+}
+
+.realtor h3 {
+    margin: 10px 0 5px;
+}
+
+.realtor p {
+    margin: 2px 0;
+}
